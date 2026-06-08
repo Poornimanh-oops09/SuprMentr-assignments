@@ -8,12 +8,12 @@ These assignments cover fundamentals to advanced concepts in **HTML, CSS, JavaSc
 
 ## 👩‍💻 About Me
 
-**Nethravathi N**  
-Final Year B.E Computer Science Student (CGPA: 7.36)  
+**Nithya v**  
+Final Year B.E Computer Science Student (CGPA: 8.36)  
 Aspiring Full Stack Developer  
 
-📧 nnethravathi569@gmail.com
-🔗 LinkedIn:  https://www.linkedin.com/in/nethravathi-n-a833192b1
+📧 nithunithya800@gmail.com
+
 
 ---
 
