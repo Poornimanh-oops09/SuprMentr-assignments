@@ -8,11 +8,11 @@ These assignments cover fundamentals to advanced concepts in **HTML, CSS, JavaSc
 
 ## 👩‍💻 About Me
 
-**Nithya v**  
-Final Year B.E Computer Science Student (CGPA: 8.36)  
+**Poornima N H**  
+Final Year B.E Computer Science Student (CGPA: 7.51)  
 Aspiring Full Stack Developer  
 
-📧 nithunithya800@gmail.com
+📧 nhpoornima09@gmail.com
 
 
 ---
